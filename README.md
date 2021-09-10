@@ -1,5 +1,8 @@
 # Todo-app
 Todo List app using NodeJS
+Database:- MongoDB
+
+this app can be used to add todo. To store the todo's it uses MongoDB which make the todo to not disappear on page refresh it also hase the feature to delete the todo individually or delete all of them in one go.
 
 **Challange 3** :- [**DevelopersDay**](https://developerdays.tech/)
 
